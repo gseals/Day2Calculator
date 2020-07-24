@@ -4,7 +4,7 @@
 
 ## Description
 
-* This is a very simple Calculator application built using HTML, CSS, JavaScript, and SCSS.
+* This is a Calculator application built using HTML, CSS, JavaScript, and SCSS.
 
 ## Demo Link
 
