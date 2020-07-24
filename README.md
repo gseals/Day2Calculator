@@ -20,7 +20,7 @@
 ## Screenshots
 
 ### Landing Page
-![Landing Page]()
+![Landing Page](https://raw.githubusercontent.com/gseals/Day2Calculator/master/screenshots/LandingPage.png)
 
 ## How to Run
 
